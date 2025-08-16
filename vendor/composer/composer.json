@@ -1,0 +1,16 @@
+{
+    "name": "tszj/tszj",
+    "description": "Restful API course for PHP on Udemy",
+    "autoload": {
+        "psr-4": {
+            "Tszj\\Tszj\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ssalijoshua",
+            "email": "ssalijoshua2002@gmail.com"
+        }
+    ],
+    "require": {}
+}
